@@ -1,6 +1,8 @@
 # Repositorio Curso Diseño Experimental
--Repositorio para almacenar los scripts de los diferentes diseños experimentales 
-contenido del curso. 
+-Repositorio para almacenar los scripts de los diferentes diseños experimentales
+
+
+Contenido del curso: 
 
 Práctica 1- (08/04/2024) Crear nuestra cuenta de GitHub.
 
