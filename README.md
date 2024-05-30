@@ -45,6 +45,9 @@ Laboratorio 2
 # Examenes
 Examen 1 (22/05/2024)
 
+
+![Image text](https://github.com/fernandapmtz/Disexp_2024/blob/main/Graficas%20del%20curso.png)
+
 Examen 2 (20/05/2024)
 
 
