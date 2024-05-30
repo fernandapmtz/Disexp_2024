@@ -17,7 +17,7 @@ Práctica 3 (15/04/2024) y (17/04/2024): Salida a campo
 
 Práctica 4 (24/04/2024): Revisión frl "laboratorio 1"
 
-Clase 2 (29/04/2024): Importar datos, estadistica descriptiva
+Clase 2 (29/04/2024): Importar datos, estadistica descriptiva 
 
 Práctica 5 (01/05/20'24): Asueto
 
@@ -38,6 +38,13 @@ Laboratorio 1 ( 14/04/2024): Utilizacion de sumas con github y preguntas cualita
 Laboratorio 2 ( 08/05/2024): Utilizacion de paginas seguras y histogramas de mamiferos
 
 # Tareas
+
+Laboratorio 1
+Laboratorio 2
+
+# Examenes
 Examen 1 (22/05/2024)
 
 Examen 2 (20/05/2024)
+
+
